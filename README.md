@@ -5,5 +5,5 @@ macOS Homebrew tap for https://developer.arm.com/open-source/gnu-toolchain/gnu-r
 Usage:
 
 	brew tap torfinnberset/embedded
-	brew install torfinnberset/embedded/gcc-arm-none-eabi-83
+	brew install torfinnberset/embedded/gcc-arm-none-eabi-93
 
